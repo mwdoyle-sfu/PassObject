@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Switching Activities</string>
+    <string name="launch_second">Launch Second</string>
+    <string name="first_activity">First Activity</string>
+    <string name="second_activity">Second Activity</string>
+</resources>
